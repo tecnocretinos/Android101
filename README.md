@@ -3,8 +3,7 @@
 Bienvenid@ Tecnocretin@! 
 Este es curso de desarrollo de aplicaciones móviles con android. A continuación encontrarás las clases que veremos y los enlaces respectivos a los videos y documentación relacionadas a la clase. Espero que lo disfrutes y te sea de mucha utilidad.
 
-### Este contenido es creado por Tecnocretinos, recuerda seguirnos en redes sociales para más contenido sobre ciencia, tecnología e innovación.
-#### [@tecnocretinos](https://www.instagram.com/tecnocretinos/)
+### Este contenido es creado por [Tecnocretinos](https://www.instagram.com/tecnocretinos/), recuerda seguirnos en redes sociales para más contenido sobre ciencia, tecnología e innovación.
 #### Autor: [@espaciotiago](https://taplink.cc/espaciotiago)
 
 ## CLASE 1: Introducción a Android, android studio y Kotlin
