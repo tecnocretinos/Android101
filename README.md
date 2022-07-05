@@ -6,6 +6,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Este contenido es creado por [Tecnocretinos](https://www.instagram.com/tecnocretinos/), recuerda seguirnos en redes sociales para más contenido sobre ciencia, tecnología e innovación.
 #### Autor: [@espaciotiago](https://taplink.cc/espaciotiago)
 
+## [Este es el proyecto base de este curso](https://github.com/tecnocretinos/android101_proyect/tree/main)
 ## CLASE 1: Introducción a Android, android studio y Kotlin
 
 ## CLASE 2: Los elementos básicos de UI
