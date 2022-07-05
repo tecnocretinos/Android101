@@ -8,10 +8,13 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 
 ## [Este es el proyecto base de este curso](https://github.com/tecnocretinos/android101_proyect/tree/main)
 ## CLASE 1: Introducción a Android, android studio y Kotlin
+[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-01-ui-presentation)
 
 ## CLASE 2: Los elementos básicos de UI
+[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-02-ui-elements)
 
 ## CLASE 3: Manejo de listas
+[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
 
 ## CLASE 4: Fragments
 
