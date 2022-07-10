@@ -26,6 +26,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase:
 
 ## CLASE 6: UI/UX y temas
+### Proyecto de esta clase: [class-06-ui-theme](https://github.com/tecnocretinos/android101_proyect/tree/class-06-ui-theme)
 
 ## CLASE 7: Uso de la cámara
 
