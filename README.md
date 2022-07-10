@@ -8,20 +8,22 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 
 ## [Este es el proyecto base de este curso](https://github.com/tecnocretinos/android101_proyect/tree/main)
 ## CLASE 1: Introducción a Android, android studio y Kotlin
-[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-01-ui-presentation)
+### Proyecto de esta clase: [class-01-ui-presentation](https://github.com/tecnocretinos/android101_proyect/tree/class-01-ui-presentation)
 
 ## CLASE 2: Los elementos básicos de UI
-[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-02-ui-elements)
+### Proyecto de esta clase: [Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-02-ui-elements)
 
 ## CLASE 3: Manejo de listas
-[Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
+### Proyecto de esta clase: [class-03-lists](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
 
 ## CLASE 3 Bonus: Migración al uso de bindings
-[Proyecto de esta clase feature/class-03-binding-bonus](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
+### Proyecto de esta clase: [class-03-binding-bonus](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
 
 ## CLASE 4: Fragments
+### Proyecto de esta clase: [class-04-freagments](https://github.com/tecnocretinos/android101_proyect/tree/class-04-freagments)
 
-## CLASE 5: Procesos aasincrónicos
+## CLASE 5: Procesos asincrónicos
+### Proyecto de esta clase:
 
 ## CLASE 6: UI/UX y temas
 
