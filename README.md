@@ -16,6 +16,9 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ## CLASE 3: Manejo de listas
 [Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
 
+## CLASE 3 Bonus: Migración al uso de bindings
+[Proyecto de esta clase feature/class-03-binding-bonus](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
+
 ## CLASE 4: Fragments
 
 ## CLASE 5: Procesos aasincrónicos
