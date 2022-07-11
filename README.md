@@ -23,7 +23,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: [class-04-freagments](https://github.com/tecnocretinos/android101_proyect/tree/class-04-freagments)
 
 ## CLASE 5: Procesos asincrónicos
-### Proyecto de esta clase:
+### Proyecto de esta clase: TODO proyecto externo
 
 ## CLASE 6: UI/UX y temas
 ### Proyecto de esta clase: [class-06-ui-theme](https://github.com/tecnocretinos/android101_proyect/tree/class-06-ui-theme)
@@ -33,6 +33,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ## CLASE 8: Uso de mapas y georeferencia
 
 ## CLASE 9: API Rest y peticiones HTTP
+### Proyecto de esta clase: TODO Proyecto externo
 
 ## CLASE 10: Firestore
 
