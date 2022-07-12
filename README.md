@@ -11,7 +11,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: [class-01-ui-presentation](https://github.com/tecnocretinos/android101_proyect/tree/class-01-ui-presentation)
 
 ## CLASE 2: Los elementos básicos de UI
-### Proyecto de esta clase: [Proyecto de esta clase](https://github.com/tecnocretinos/android101_proyect/tree/class-02-ui-elements)
+### Proyecto de esta clase: [class-02-ui-elements](https://github.com/tecnocretinos/android101_proyect/tree/class-02-ui-elements)
 
 ## CLASE 3: Manejo de listas
 ### Proyecto de esta clase: [class-03-lists](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
@@ -29,8 +29,10 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: [class-06-ui-theme](https://github.com/tecnocretinos/android101_proyect/tree/class-06-ui-theme)
 
 ## CLASE 7: Uso de la cámara
+### Proyecto de esta clase: [class-07-camera-gallery](https://github.com/tecnocretinos/android101_proyect/tree/class-07-camera-gallery)
 
 ## CLASE 8: Uso de mapas y georeferencia
+### Proyecto de esta clase: [class-08-maps](https://github.com/tecnocretinos/android101_proyect/tree/class-08-maps)
 
 ## CLASE 9: API Rest y peticiones HTTP
 ### Proyecto de esta clase: TODO Proyecto externo
