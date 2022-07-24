@@ -38,9 +38,10 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: TODO Proyecto externo
 
 ## CLASE 10: Firestore
-### Proyecto de esta clase: [class-08-maps](https://github.com/tecnocretinos/android101_proyect/tree/class-10-firestore)
+### Proyecto de esta clase: [class-10-firestore](https://github.com/tecnocretinos/android101_proyect/tree/class-10-firestore)
 
 ## CLASE 11: Enviar notificaciones push con GSM y Firebase
+### Proyecto de esta clase: [class-11-fcm](https://github.com/tecnocretinos/android101_proyect/tree/class-11-fcm)
 
 ## CLASE 12: Autenticación con firebase
 
