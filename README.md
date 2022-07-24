@@ -48,5 +48,6 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ## CLASE 13: Almacenamiento de archivos en la nube con firebase storage
 
 ## CLASE 14: SQLite
+### Proyecto de esta clase: TODO Proyecto externo
 
 ## CLASE 15: ¡Esta viva! Deplegar nuestra app
