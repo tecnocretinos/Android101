@@ -44,6 +44,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: [class-12-auth](https://github.com/tecnocretinos/android101_proyect/tree/class-12-auth)
 
 ## CLASE 13: Almacenamiento de archivos en la nube con firebase storage
+### Proyecto de esta clase: [class-13-cloud-storage](https://github.com/tecnocretinos/android101_proyect/tree/class-13-cloud-storage)
 
 ## CLASE 14: SQLite
 ### Proyecto de esta clase: TODO Proyecto externo
@@ -54,3 +55,5 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Migración al uso de bindings: [extra-binding-migrations](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
 
 ### Ubicación actual y callback para obtener posición del map fragment: [extra-current-position-marker](https://github.com/tecnocretinos/android101_proyect/tree/extra-current-position-marker)
+
+### Uso de Glide para el manejo de imagenes desde url: [extra-current-position-marker](https://github.com/tecnocretinos/android101_proyect/tree/extra-current-position-marker)
