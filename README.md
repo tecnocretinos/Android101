@@ -16,9 +16,6 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ## CLASE 3: Manejo de listas
 ### Proyecto de esta clase: [class-03-lists](https://github.com/tecnocretinos/android101_proyect/tree/class-03-lists)
 
-## CLASE 3 Bonus: Migración al uso de bindings
-### Proyecto de esta clase: [class-03-binding-bonus](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
-
 ## CLASE 4: Fragments
 ### Proyecto de esta clase: [class-04-freagments](https://github.com/tecnocretinos/android101_proyect/tree/class-04-freagments)
 
@@ -51,3 +48,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: TODO Proyecto externo
 
 ## CLASE 15: ¡Esta viva! Deplegar nuestra app
+
+## EXTRAS: Bonus que sirven de guía
+### Migración al uso de bindings: [extra-binding-migrations](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
+### Ubicación actual y callback para obtener posición del map fragment: [extra-current-position-marker](https://github.com/tecnocretinos/android101_proyect/tree/extra-current-position-marker)
