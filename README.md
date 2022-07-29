@@ -41,6 +41,7 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 ### Proyecto de esta clase: [class-11-fcm](https://github.com/tecnocretinos/android101_proyect/tree/class-11-fcm)
 
 ## CLASE 12: Autenticación con firebase
+### Proyecto de esta clase: [class-12-auth](https://github.com/tecnocretinos/android101_proyect/tree/class-12-auth)
 
 ## CLASE 13: Almacenamiento de archivos en la nube con firebase storage
 
@@ -51,4 +52,5 @@ Este es curso de desarrollo de aplicaciones móviles con android. A continuació
 
 ## EXTRAS: Bonus que sirven de guía
 ### Migración al uso de bindings: [extra-binding-migrations](https://github.com/tecnocretinos/android101_proyect/tree/feature/class-03-binding-bonus)
+
 ### Ubicación actual y callback para obtener posición del map fragment: [extra-current-position-marker](https://github.com/tecnocretinos/android101_proyect/tree/extra-current-position-marker)
